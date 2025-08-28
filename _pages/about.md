@@ -8,3 +8,5 @@ redirect_from:
   -/about.html
 
 ---
+
+I am a second year Phd student at ENS de Lyon, under the supervision of [Laurent Chavillard](https://perso.ens-lyon.fr/laurent.chevillard/) and [Nikolay Tzvetkov](https://tzvetkov.perso.math.cnrs.fr/) 
