@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Wandrille Ruffenach"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Earth"
+  bio              : "Turbulence, non linear dynamics"
+  location         : "Lyon, France"
   employer         : "ENS de Lyon"
   uri              : # URL
-  email            : "wandrille [dot] ruffenach [at] ens-lyon [dot] fr" 
+  email            : "wandrille.ruffenach.ens-lyon.fr" 
 
   # Academic websites
   academia         : # URL
