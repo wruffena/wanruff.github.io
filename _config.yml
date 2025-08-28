@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Wandrille Ruffenach"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Turbulence, Non-linear dynamics"
+  location         : "Lyon, France"
+  employer         : "Laboratoire de Physique, ENS de Lyon"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wandrille.ruffenach@ens-lyon.fr" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Ruffenach%2C+W"
+  googlescholar    : "https://scholar.google.com/citations?user=ufnlRXAAAAAJ&hl=fr"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
